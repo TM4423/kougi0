@@ -249,6 +249,12 @@ header
     font-size: 2.4rem;
     font-weight: bold;
 }
+.contact-description {
+    margin: 0 0 0 64px;
+}
+
+/* --------access-------- */
+
 .access-title {
     font-size: 2.4rem;
     margin-bottom: 24px;
@@ -332,16 +338,16 @@ input[type*="radio"]:checked {
 .icon-up {
     color: #fff;
 }
-.footer {
+/* .footer {
     display: block;
     line-height: 2;
     background-color: gray;
     color: #fff;
-}
+} */
 .footer .wrapper {
     position: relative;
 }
-.btn-pagetop {
+/* .btn-pagetop {
     position: absolute;
     top: -18px;
     right: 0px;
@@ -355,7 +361,7 @@ input[type*="radio"]:checked {
     display: block;
     padding: 10px 0;
     font-size: 2.4rem;
-}
+} */
 .copyrights {
     color: #fff;
 }
